@@ -1,6 +1,6 @@
 # PyJap
 
-A Simple Console Based Python App to learn Japanese
+A Simple Console Based Python App to learn Basic Japanese
 
 ## Requirements:
 
